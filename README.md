@@ -22,33 +22,11 @@ A modern, responsive portfolio  built with **Next.js**, **Tailwind CSS**, and **
 
 ---
 
-## 📂 Folder Structure
-src/
-│
-├── app/ # App Router pages
-│ ├── layout.js
-│ └── page.js
-│
-├── components/ # UI and functional components
-│ ├── Header.js
-│ ├── UserSummaryCard.js
-│ ├── AssetAllocationChart.js
-│ ├── HoldingsTable.js
-│ ├── Toast.js
-│ └── ui/
-│ ├── button.js
-│ └── card.js
-│
-├── data/
-│ └── portfolioData.js # Static mock data
-│
-└── styles/
-└── globals.css # Tailwind setup
-
 ## ⚙️ Getting Started
 
 1. Clone the Repository
 
+```bash
 git clone https://github.com/your-username/portfolio-snapshot.git
 cd portfolio-snapshot
 
