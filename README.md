@@ -27,8 +27,8 @@ A modern, responsive portfolio  built with **Next.js**, **Tailwind CSS**, and **
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/portfolio-snapshot.git
-cd portfolio-snapshot
+git clone https://github.com/your-username/my-nextportfoliosnapshot-app.git
+
 
 2. Install Dependencies
 
